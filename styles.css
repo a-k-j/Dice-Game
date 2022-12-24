@@ -1,0 +1,29 @@
+body
+{
+  background-color: #222831;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+.container
+{
+  margin: 5rem auto;
+}
+
+h1
+{
+  font-size: 7rem;
+  color: #42C2FF;
+}
+
+p
+{
+  color: #00ADB5;
+  font-size: 2rem;
+}
+
+
+footer
+{
+  color: #EEEEEE;
+}
